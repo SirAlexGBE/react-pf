@@ -11,6 +11,7 @@ export default function App() {
     {text: "Home", href: "#home"},
     {text: "About", href: "#about"},
     {text: "Projects", href: "#projects"},
+    {text: "Projects", href: "#projects"},
     {text: "Contact", href: "#contact"},
   ];
   const projects = [
